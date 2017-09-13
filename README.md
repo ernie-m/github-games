@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games
 
-A project based learning activity for people who are getting started with Git and GitHub.
+A project based learning activity for people who are getting started with Git and GitHub.  This is me updating the readme file.  Please read me...or else!
 
 You can play the game at: https://githubschool.github.io/github-games/
 
